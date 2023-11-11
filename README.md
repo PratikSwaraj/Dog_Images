@@ -1,2 +1,2 @@
 # Dog_Images
-Created with CodeSandbox
+View random dog Images 
